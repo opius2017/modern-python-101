@@ -1,6 +1,6 @@
 # Modern Python 101 - Thinking With Types
 
-!["Modern Python"](assets/twitter_octallium_modern_python_101_1.png)
+["Modern Python"](assets/twitter_octallium_modern_python_101_1.png)
 
 This is your guide to get started with Python Programming Language. This is a simple to understand and free guide to learn Python, we don't expect you to have any programming knowledge and teach everything from scratch. 
 
